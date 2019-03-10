@@ -1,0 +1,5612 @@
+[
+    {
+      "codigoMunicipio": "05001",
+      "nombreMunicipio": "MEDELLÍN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05002",
+      "nombreMunicipio": "ABEJORRAL",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05004",
+      "nombreMunicipio": "ABRIAQUÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05021",
+      "nombreMunicipio": "ALEJANDRÍA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05030",
+      "nombreMunicipio": "AMAGÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05031",
+      "nombreMunicipio": "AMALFI",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05034",
+      "nombreMunicipio": "ANDES",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05036",
+      "nombreMunicipio": "ANGELÓPOLIS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05038",
+      "nombreMunicipio": "ANGOSTURA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05040",
+      "nombreMunicipio": "ANORÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05042",
+      "nombreMunicipio": "SANTA FÉ DE ANTIOQUIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05044",
+      "nombreMunicipio": "ANZÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05045",
+      "nombreMunicipio": "APARTADÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05051",
+      "nombreMunicipio": "ARBOLETES",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05055",
+      "nombreMunicipio": "ARGELIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05059",
+      "nombreMunicipio": "ARMENIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05079",
+      "nombreMunicipio": "BARBOSA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05086",
+      "nombreMunicipio": "BELMIRA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05088",
+      "nombreMunicipio": "BELLO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05091",
+      "nombreMunicipio": "BETANIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05093",
+      "nombreMunicipio": "BETULIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05101",
+      "nombreMunicipio": "CIUDAD BOLÍVAR",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05107",
+      "nombreMunicipio": "BRICEÑO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05113",
+      "nombreMunicipio": "BURITICÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05120",
+      "nombreMunicipio": "CÁCERES",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05125",
+      "nombreMunicipio": "CAICEDO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05129",
+      "nombreMunicipio": "CALDAS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05134",
+      "nombreMunicipio": "CAMPAMENTO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05138",
+      "nombreMunicipio": "CAÑASGORDAS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05142",
+      "nombreMunicipio": "CARACOLÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05145",
+      "nombreMunicipio": "CARAMANTA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05147",
+      "nombreMunicipio": "CAREPA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05148",
+      "nombreMunicipio": "EL CARMEN DE VIBORAL",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05150",
+      "nombreMunicipio": "CAROLINA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05154",
+      "nombreMunicipio": "CAUCASIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05172",
+      "nombreMunicipio": "CHIGORODÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05190",
+      "nombreMunicipio": "CISNEROS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05197",
+      "nombreMunicipio": "COCORNÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05206",
+      "nombreMunicipio": "CONCEPCIÓN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05209",
+      "nombreMunicipio": "CONCORDIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05212",
+      "nombreMunicipio": "COPACABANA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05234",
+      "nombreMunicipio": "DABEIBA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05237",
+      "nombreMunicipio": "DONMATÍAS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05240",
+      "nombreMunicipio": "EBÉJICO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05250",
+      "nombreMunicipio": "EL BAGRE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05264",
+      "nombreMunicipio": "ENTRERRÍOS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05266",
+      "nombreMunicipio": "ENVIGADO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05282",
+      "nombreMunicipio": "FREDONIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05284",
+      "nombreMunicipio": "FRONTINO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05306",
+      "nombreMunicipio": "GIRALDO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05308",
+      "nombreMunicipio": "GIRARDOTA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05310",
+      "nombreMunicipio": "GÓMEZ PLATA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05313",
+      "nombreMunicipio": "GRANADA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05315",
+      "nombreMunicipio": "GUADALUPE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05318",
+      "nombreMunicipio": "GUARNE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05321",
+      "nombreMunicipio": "GUATAPÉ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05347",
+      "nombreMunicipio": "HELICONIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05353",
+      "nombreMunicipio": "HISPANIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05360",
+      "nombreMunicipio": "ITAGÜÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05361",
+      "nombreMunicipio": "ITUANGO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05364",
+      "nombreMunicipio": "JARDÍN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05368",
+      "nombreMunicipio": "JERICÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05376",
+      "nombreMunicipio": "LA CEJA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05380",
+      "nombreMunicipio": "LA ESTRELLA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05390",
+      "nombreMunicipio": "LA PINTADA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05400",
+      "nombreMunicipio": "LA UNIÓN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05411",
+      "nombreMunicipio": "LIBORINA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05425",
+      "nombreMunicipio": "MACEO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05440",
+      "nombreMunicipio": "MARINILLA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05467",
+      "nombreMunicipio": "MONTEBELLO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05475",
+      "nombreMunicipio": "MURINDÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05480",
+      "nombreMunicipio": "MUTATÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05483",
+      "nombreMunicipio": "NARIÑO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05490",
+      "nombreMunicipio": "NECOCLÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05495",
+      "nombreMunicipio": "NECHÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05501",
+      "nombreMunicipio": "OLAYA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05541",
+      "nombreMunicipio": "PEÑOL",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05543",
+      "nombreMunicipio": "PEQUE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05576",
+      "nombreMunicipio": "PUEBLORRICO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05579",
+      "nombreMunicipio": "PUERTO BERRÍO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05585",
+      "nombreMunicipio": "PUERTO NARE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05591",
+      "nombreMunicipio": "PUERTO TRIUNFO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05604",
+      "nombreMunicipio": "REMEDIOS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05607",
+      "nombreMunicipio": "RETIRO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05615",
+      "nombreMunicipio": "RIONEGRO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05628",
+      "nombreMunicipio": "SABANALARGA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05631",
+      "nombreMunicipio": "SABANETA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05642",
+      "nombreMunicipio": "SALGAR",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05647",
+      "nombreMunicipio": "SAN ANDRÉS DE CUERQUÍA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05649",
+      "nombreMunicipio": "SAN CARLOS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05652",
+      "nombreMunicipio": "SAN FRANCISCO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05656",
+      "nombreMunicipio": "SAN JERÓNIMO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05658",
+      "nombreMunicipio": "SAN JOSÉ DE LA MONTAÑA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05659",
+      "nombreMunicipio": "SAN JUAN DE URABÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05660",
+      "nombreMunicipio": "SAN LUIS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05664",
+      "nombreMunicipio": "SAN PEDRO DE LOS MILAGROS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05665",
+      "nombreMunicipio": "SAN PEDRO DE URABÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05667",
+      "nombreMunicipio": "SAN RAFAEL",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05670",
+      "nombreMunicipio": "SAN ROQUE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05674",
+      "nombreMunicipio": "SAN VICENTE FERRER",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05679",
+      "nombreMunicipio": "SANTA BÁRBARA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05686",
+      "nombreMunicipio": "SANTA ROSA DE OSOS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05690",
+      "nombreMunicipio": "SANTO DOMINGO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05697",
+      "nombreMunicipio": "EL SANTUARIO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05736",
+      "nombreMunicipio": "SEGOVIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05756",
+      "nombreMunicipio": "SONSÓN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05761",
+      "nombreMunicipio": "SOPETRÁN",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05789",
+      "nombreMunicipio": "TÁMESIS",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05790",
+      "nombreMunicipio": "TARAZÁ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05792",
+      "nombreMunicipio": "TARSO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05809",
+      "nombreMunicipio": "TITIRIBÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05819",
+      "nombreMunicipio": "TOLEDO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05837",
+      "nombreMunicipio": "TURBO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05842",
+      "nombreMunicipio": "URAMITA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05847",
+      "nombreMunicipio": "URRAO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05854",
+      "nombreMunicipio": "VALDIVIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05856",
+      "nombreMunicipio": "VALPARAÍSO",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05858",
+      "nombreMunicipio": "VEGACHÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05861",
+      "nombreMunicipio": "VENECIA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05873",
+      "nombreMunicipio": "VIGÍA DEL FUERTE",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05885",
+      "nombreMunicipio": "YALÍ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05887",
+      "nombreMunicipio": "YARUMAL",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05890",
+      "nombreMunicipio": "YOLOMBÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05893",
+      "nombreMunicipio": "YONDÓ",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "05895",
+      "nombreMunicipio": "ZARAGOZA",
+      "codigoDepto": "05"
+    },
+    {
+      "codigoMunicipio": "08001",
+      "nombreMunicipio": "BARRANQUILLA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08078",
+      "nombreMunicipio": "BARANOA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08137",
+      "nombreMunicipio": "CAMPO DE LA CRUZ",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08141",
+      "nombreMunicipio": "CANDELARIA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08296",
+      "nombreMunicipio": "GALAPA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08372",
+      "nombreMunicipio": "JUAN DE ACOSTA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08421",
+      "nombreMunicipio": "LURUACO",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08433",
+      "nombreMunicipio": "MALAMBO",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08436",
+      "nombreMunicipio": "MANATÍ",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08520",
+      "nombreMunicipio": "PALMAR DE VARELA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08549",
+      "nombreMunicipio": "PIOJÓ",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08558",
+      "nombreMunicipio": "POLONUEVO",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08560",
+      "nombreMunicipio": "PONEDERA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08573",
+      "nombreMunicipio": "PUERTO COLOMBIA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08606",
+      "nombreMunicipio": "REPELÓN",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08634",
+      "nombreMunicipio": "SABANAGRANDE",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08638",
+      "nombreMunicipio": "SABANALARGA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08675",
+      "nombreMunicipio": "SANTA LUCÍA",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08685",
+      "nombreMunicipio": "SANTO TOMÁS",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08758",
+      "nombreMunicipio": "SOLEDAD",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08770",
+      "nombreMunicipio": "SUAN",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08832",
+      "nombreMunicipio": "TUBARÁ",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": "08849",
+      "nombreMunicipio": "USIACURÍ",
+      "codigoDepto": "08"
+    },
+    {
+      "codigoMunicipio": 11001,
+      "nombreMunicipio": "BOGOTÁ, D.C.",
+      "codigoDepto": 11
+    },
+    {
+      "codigoMunicipio": 13001,
+      "nombreMunicipio": "CARTAGENA DE INDIAS",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13006,
+      "nombreMunicipio": "ACHÍ",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13030,
+      "nombreMunicipio": "ALTOS DEL ROSARIO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13042,
+      "nombreMunicipio": "ARENAL",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13052,
+      "nombreMunicipio": "ARJONA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13062,
+      "nombreMunicipio": "ARROYOHONDO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13074,
+      "nombreMunicipio": "BARRANCO DE LOBA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13140,
+      "nombreMunicipio": "CALAMAR",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13160,
+      "nombreMunicipio": "CANTAGALLO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13188,
+      "nombreMunicipio": "CICUCO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13212,
+      "nombreMunicipio": "CÓRDOBA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13222,
+      "nombreMunicipio": "CLEMENCIA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13244,
+      "nombreMunicipio": "EL CARMEN DE BOLÍVAR",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13248,
+      "nombreMunicipio": "EL GUAMO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13268,
+      "nombreMunicipio": "EL PEÑÓN",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13300,
+      "nombreMunicipio": "HATILLO DE LOBA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13430,
+      "nombreMunicipio": "MAGANGUÉ",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13433,
+      "nombreMunicipio": "MAHATES",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13440,
+      "nombreMunicipio": "MARGARITA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13442,
+      "nombreMunicipio": "MARÍA LA BAJA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13458,
+      "nombreMunicipio": "MONTECRISTO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13468,
+      "nombreMunicipio": "MOMPÓS",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13473,
+      "nombreMunicipio": "MORALES",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13490,
+      "nombreMunicipio": "NOROSÍ",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13549,
+      "nombreMunicipio": "PINILLOS",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13580,
+      "nombreMunicipio": "REGIDOR",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13600,
+      "nombreMunicipio": "RÍO VIEJO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13620,
+      "nombreMunicipio": "SAN CRISTÓBAL",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13647,
+      "nombreMunicipio": "SAN ESTANISLAO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13650,
+      "nombreMunicipio": "SAN FERNANDO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13654,
+      "nombreMunicipio": "SAN JACINTO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13655,
+      "nombreMunicipio": "SAN JACINTO DEL CAUCA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13657,
+      "nombreMunicipio": "SAN JUAN NEPOMUCENO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13667,
+      "nombreMunicipio": "SAN MARTÍN DE LOBA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13670,
+      "nombreMunicipio": "SAN PABLO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13673,
+      "nombreMunicipio": "SANTA CATALINA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13683,
+      "nombreMunicipio": "SANTA ROSA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13688,
+      "nombreMunicipio": "SANTA ROSA DEL SUR",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13744,
+      "nombreMunicipio": "SIMITÍ",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13760,
+      "nombreMunicipio": "SOPLAVIENTO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13780,
+      "nombreMunicipio": "TALAIGUA NUEVO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13810,
+      "nombreMunicipio": "TIQUISIO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13836,
+      "nombreMunicipio": "TURBACO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13838,
+      "nombreMunicipio": "TURBANÁ",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13873,
+      "nombreMunicipio": "VILLANUEVA",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 13894,
+      "nombreMunicipio": "ZAMBRANO",
+      "codigoDepto": 13
+    },
+    {
+      "codigoMunicipio": 15001,
+      "nombreMunicipio": "TUNJA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15022,
+      "nombreMunicipio": "ALMEIDA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15047,
+      "nombreMunicipio": "AQUITANIA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15051,
+      "nombreMunicipio": "ARCABUCO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15087,
+      "nombreMunicipio": "BELÉN",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15090,
+      "nombreMunicipio": "BERBEO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15092,
+      "nombreMunicipio": "BETÉITIVA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15097,
+      "nombreMunicipio": "BOAVITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15104,
+      "nombreMunicipio": "BOYACÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15106,
+      "nombreMunicipio": "BRICEÑO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15109,
+      "nombreMunicipio": "BUENAVISTA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15114,
+      "nombreMunicipio": "BUSBANZÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15131,
+      "nombreMunicipio": "CALDAS",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15135,
+      "nombreMunicipio": "CAMPOHERMOSO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15162,
+      "nombreMunicipio": "CERINZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15172,
+      "nombreMunicipio": "CHINAVITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15176,
+      "nombreMunicipio": "CHIQUINQUIRÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15180,
+      "nombreMunicipio": "CHISCAS",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15183,
+      "nombreMunicipio": "CHITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15185,
+      "nombreMunicipio": "CHITARAQUE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15187,
+      "nombreMunicipio": "CHIVATÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15189,
+      "nombreMunicipio": "CIÉNEGA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15204,
+      "nombreMunicipio": "CÓMBITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15212,
+      "nombreMunicipio": "COPER",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15215,
+      "nombreMunicipio": "CORRALES",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15218,
+      "nombreMunicipio": "COVARACHÍA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15223,
+      "nombreMunicipio": "CUBARÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15224,
+      "nombreMunicipio": "CUCAITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15226,
+      "nombreMunicipio": "CUÍTIVA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15232,
+      "nombreMunicipio": "CHÍQUIZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15236,
+      "nombreMunicipio": "CHIVOR",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15238,
+      "nombreMunicipio": "DUITAMA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15244,
+      "nombreMunicipio": "EL COCUY",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15248,
+      "nombreMunicipio": "EL ESPINO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15272,
+      "nombreMunicipio": "FIRAVITOBA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15276,
+      "nombreMunicipio": "FLORESTA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15293,
+      "nombreMunicipio": "GACHANTIVÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15296,
+      "nombreMunicipio": "GÁMEZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15299,
+      "nombreMunicipio": "GARAGOA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15317,
+      "nombreMunicipio": "GUACAMAYAS",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15322,
+      "nombreMunicipio": "GUATEQUE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15325,
+      "nombreMunicipio": "GUAYATÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15332,
+      "nombreMunicipio": "GÜICÁN DE LA SIERRA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15362,
+      "nombreMunicipio": "IZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15367,
+      "nombreMunicipio": "JENESANO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15368,
+      "nombreMunicipio": "JERICÓ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15377,
+      "nombreMunicipio": "LABRANZAGRANDE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15380,
+      "nombreMunicipio": "LA CAPILLA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15401,
+      "nombreMunicipio": "LA VICTORIA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15403,
+      "nombreMunicipio": "LA UVITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15407,
+      "nombreMunicipio": "VILLA DE LEYVA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15425,
+      "nombreMunicipio": "MACANAL",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15442,
+      "nombreMunicipio": "MARIPÍ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15455,
+      "nombreMunicipio": "MIRAFLORES",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15464,
+      "nombreMunicipio": "MONGUA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15466,
+      "nombreMunicipio": "MONGUÍ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15469,
+      "nombreMunicipio": "MONIQUIRÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15476,
+      "nombreMunicipio": "MOTAVITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15480,
+      "nombreMunicipio": "MUZO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15491,
+      "nombreMunicipio": "NOBSA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15494,
+      "nombreMunicipio": "NUEVO COLÓN",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15500,
+      "nombreMunicipio": "OICATÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15507,
+      "nombreMunicipio": "OTANCHE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15511,
+      "nombreMunicipio": "PACHAVITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15514,
+      "nombreMunicipio": "PÁEZ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15516,
+      "nombreMunicipio": "PAIPA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15518,
+      "nombreMunicipio": "PAJARITO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15522,
+      "nombreMunicipio": "PANQUEBA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15531,
+      "nombreMunicipio": "PAUNA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15533,
+      "nombreMunicipio": "PAYA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15537,
+      "nombreMunicipio": "PAZ DE RÍO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15542,
+      "nombreMunicipio": "PESCA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15550,
+      "nombreMunicipio": "PISBA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15572,
+      "nombreMunicipio": "PUERTO BOYACÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15580,
+      "nombreMunicipio": "QUÍPAMA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15599,
+      "nombreMunicipio": "RAMIRIQUÍ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15600,
+      "nombreMunicipio": "RÁQUIRA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15621,
+      "nombreMunicipio": "RONDÓN",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15632,
+      "nombreMunicipio": "SABOYÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15638,
+      "nombreMunicipio": "SÁCHICA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15646,
+      "nombreMunicipio": "SAMACÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15660,
+      "nombreMunicipio": "SAN EDUARDO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15664,
+      "nombreMunicipio": "SAN JOSÉ DE PARE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15667,
+      "nombreMunicipio": "SAN LUIS DE GACENO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15673,
+      "nombreMunicipio": "SAN MATEO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15676,
+      "nombreMunicipio": "SAN MIGUEL DE SEMA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15681,
+      "nombreMunicipio": "SAN PABLO DE BORBUR",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15686,
+      "nombreMunicipio": "SANTANA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15690,
+      "nombreMunicipio": "SANTA MARÍA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15693,
+      "nombreMunicipio": "SANTA ROSA DE VITERBO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15696,
+      "nombreMunicipio": "SANTA SOFÍA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15720,
+      "nombreMunicipio": "SATIVANORTE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15723,
+      "nombreMunicipio": "SATIVASUR",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15740,
+      "nombreMunicipio": "SIACHOQUE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15753,
+      "nombreMunicipio": "SOATÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15755,
+      "nombreMunicipio": "SOCOTÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15757,
+      "nombreMunicipio": "SOCHA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15759,
+      "nombreMunicipio": "SOGAMOSO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15761,
+      "nombreMunicipio": "SOMONDOCO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15762,
+      "nombreMunicipio": "SORA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15763,
+      "nombreMunicipio": "SOTAQUIRÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15764,
+      "nombreMunicipio": "SORACÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15774,
+      "nombreMunicipio": "SUSACÓN",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15776,
+      "nombreMunicipio": "SUTAMARCHÁN",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15778,
+      "nombreMunicipio": "SUTATENZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15790,
+      "nombreMunicipio": "TASCO",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15798,
+      "nombreMunicipio": "TENZA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15804,
+      "nombreMunicipio": "TIBANÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15806,
+      "nombreMunicipio": "TIBASOSA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15808,
+      "nombreMunicipio": "TINJACÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15810,
+      "nombreMunicipio": "TIPACOQUE",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15814,
+      "nombreMunicipio": "TOCA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15816,
+      "nombreMunicipio": "TOGÜÍ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15820,
+      "nombreMunicipio": "TÓPAGA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15822,
+      "nombreMunicipio": "TOTA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15832,
+      "nombreMunicipio": "TUNUNGUÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15835,
+      "nombreMunicipio": "TURMEQUÉ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15837,
+      "nombreMunicipio": "TUTA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15839,
+      "nombreMunicipio": "TUTAZÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15842,
+      "nombreMunicipio": "ÚMBITA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15861,
+      "nombreMunicipio": "VENTAQUEMADA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15879,
+      "nombreMunicipio": "VIRACACHÁ",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 15897,
+      "nombreMunicipio": "ZETAQUIRA",
+      "codigoDepto": 15
+    },
+    {
+      "codigoMunicipio": 17001,
+      "nombreMunicipio": "MANIZALES",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17013,
+      "nombreMunicipio": "AGUADAS",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17042,
+      "nombreMunicipio": "ANSERMA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17050,
+      "nombreMunicipio": "ARANZAZU",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17088,
+      "nombreMunicipio": "BELALCÁZAR",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17174,
+      "nombreMunicipio": "CHINCHINÁ",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17272,
+      "nombreMunicipio": "FILADELFIA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17380,
+      "nombreMunicipio": "LA DORADA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17388,
+      "nombreMunicipio": "LA MERCED",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17433,
+      "nombreMunicipio": "MANZANARES",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17442,
+      "nombreMunicipio": "MARMATO",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17444,
+      "nombreMunicipio": "MARQUETALIA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17446,
+      "nombreMunicipio": "MARULANDA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17486,
+      "nombreMunicipio": "NEIRA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17495,
+      "nombreMunicipio": "NORCASIA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17513,
+      "nombreMunicipio": "PÁCORA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17524,
+      "nombreMunicipio": "PALESTINA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17541,
+      "nombreMunicipio": "PENSILVANIA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17614,
+      "nombreMunicipio": "RIOSUCIO",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17616,
+      "nombreMunicipio": "RISARALDA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17653,
+      "nombreMunicipio": "SALAMINA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17662,
+      "nombreMunicipio": "SAMANÁ",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17665,
+      "nombreMunicipio": "SAN JOSÉ",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17777,
+      "nombreMunicipio": "SUPÍA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17867,
+      "nombreMunicipio": "VICTORIA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17873,
+      "nombreMunicipio": "VILLAMARÍA",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 17877,
+      "nombreMunicipio": "VITERBO",
+      "codigoDepto": 17
+    },
+    {
+      "codigoMunicipio": 18001,
+      "nombreMunicipio": "FLORENCIA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18029,
+      "nombreMunicipio": "ALBANIA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18094,
+      "nombreMunicipio": "BELÉN DE LOS ANDAQUÍES",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18150,
+      "nombreMunicipio": "CARTAGENA DEL CHAIRÁ",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18205,
+      "nombreMunicipio": "CURILLO",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18247,
+      "nombreMunicipio": "EL DONCELLO",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18256,
+      "nombreMunicipio": "EL PAUJÍL",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18410,
+      "nombreMunicipio": "LA MONTAÑITA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18460,
+      "nombreMunicipio": "MILÁN",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18479,
+      "nombreMunicipio": "MORELIA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18592,
+      "nombreMunicipio": "PUERTO RICO",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18610,
+      "nombreMunicipio": "SAN JOSÉ DEL FRAGUA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18753,
+      "nombreMunicipio": "SAN VICENTE DEL CAGUÁN",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18756,
+      "nombreMunicipio": "SOLANO",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18785,
+      "nombreMunicipio": "SOLITA",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 18860,
+      "nombreMunicipio": "VALPARAÍSO",
+      "codigoDepto": 18
+    },
+    {
+      "codigoMunicipio": 19001,
+      "nombreMunicipio": "POPAYÁN",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19022,
+      "nombreMunicipio": "ALMAGUER",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19050,
+      "nombreMunicipio": "ARGELIA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19075,
+      "nombreMunicipio": "BALBOA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19100,
+      "nombreMunicipio": "BOLÍVAR",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19110,
+      "nombreMunicipio": "BUENOS AIRES",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19130,
+      "nombreMunicipio": "CAJIBÍO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19137,
+      "nombreMunicipio": "CALDONO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19142,
+      "nombreMunicipio": "CALOTO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19212,
+      "nombreMunicipio": "CORINTO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19256,
+      "nombreMunicipio": "EL TAMBO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19290,
+      "nombreMunicipio": "FLORENCIA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19300,
+      "nombreMunicipio": "GUACHENÉ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19318,
+      "nombreMunicipio": "GUAPÍ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19355,
+      "nombreMunicipio": "INZÁ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19364,
+      "nombreMunicipio": "JAMBALÓ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19392,
+      "nombreMunicipio": "LA SIERRA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19397,
+      "nombreMunicipio": "LA VEGA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19418,
+      "nombreMunicipio": "LÓPEZ DE MICAY",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19450,
+      "nombreMunicipio": "MERCADERES",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19455,
+      "nombreMunicipio": "MIRANDA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19473,
+      "nombreMunicipio": "MORALES",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19513,
+      "nombreMunicipio": "PADILLA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19517,
+      "nombreMunicipio": "PÁEZ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19532,
+      "nombreMunicipio": "PATÍA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19533,
+      "nombreMunicipio": "PIAMONTE",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19548,
+      "nombreMunicipio": "PIENDAMÓ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19573,
+      "nombreMunicipio": "PUERTO TEJADA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19585,
+      "nombreMunicipio": "PURACÉ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19622,
+      "nombreMunicipio": "ROSAS",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19693,
+      "nombreMunicipio": "SAN SEBASTIÁN",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19698,
+      "nombreMunicipio": "SANTANDER DE QUILICHAO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19701,
+      "nombreMunicipio": "SANTA ROSA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19743,
+      "nombreMunicipio": "SILVIA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19760,
+      "nombreMunicipio": "SOTARA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19780,
+      "nombreMunicipio": "SUÁREZ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19785,
+      "nombreMunicipio": "SUCRE",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19807,
+      "nombreMunicipio": "TIMBÍO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19809,
+      "nombreMunicipio": "TIMBIQUÍ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19821,
+      "nombreMunicipio": "TORIBÍO",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19824,
+      "nombreMunicipio": "TOTORÓ",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 19845,
+      "nombreMunicipio": "VILLA RICA",
+      "codigoDepto": 19
+    },
+    {
+      "codigoMunicipio": 20001,
+      "nombreMunicipio": "VALLEDUPAR",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20011,
+      "nombreMunicipio": "AGUACHICA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20013,
+      "nombreMunicipio": "AGUSTÍN CODAZZI",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20032,
+      "nombreMunicipio": "ASTREA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20045,
+      "nombreMunicipio": "BECERRIL",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20060,
+      "nombreMunicipio": "BOSCONIA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20175,
+      "nombreMunicipio": "CHIMICHAGUA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20178,
+      "nombreMunicipio": "CHIRIGUANÁ",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20228,
+      "nombreMunicipio": "CURUMANÍ",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20238,
+      "nombreMunicipio": "EL COPEY",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20250,
+      "nombreMunicipio": "EL PASO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20295,
+      "nombreMunicipio": "GAMARRA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20310,
+      "nombreMunicipio": "GONZÁLEZ",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20383,
+      "nombreMunicipio": "LA GLORIA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20400,
+      "nombreMunicipio": "LA JAGUA DE IBIRICO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20443,
+      "nombreMunicipio": "MANAURE BALCÓN DEL CESAR",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20517,
+      "nombreMunicipio": "PAILITAS",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20550,
+      "nombreMunicipio": "PELAYA",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20570,
+      "nombreMunicipio": "PUEBLO BELLO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20614,
+      "nombreMunicipio": "RÍO DE ORO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20621,
+      "nombreMunicipio": "LA PAZ",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20710,
+      "nombreMunicipio": "SAN ALBERTO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20750,
+      "nombreMunicipio": "SAN DIEGO",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20770,
+      "nombreMunicipio": "SAN MARTÍN",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 20787,
+      "nombreMunicipio": "TAMALAMEQUE",
+      "codigoDepto": 20
+    },
+    {
+      "codigoMunicipio": 23001,
+      "nombreMunicipio": "MONTERÍA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23068,
+      "nombreMunicipio": "AYAPEL",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23079,
+      "nombreMunicipio": "BUENAVISTA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23090,
+      "nombreMunicipio": "CANALETE",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23162,
+      "nombreMunicipio": "CERETÉ",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23168,
+      "nombreMunicipio": "CHIMÁ",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23182,
+      "nombreMunicipio": "CHINÚ",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23189,
+      "nombreMunicipio": "CIÉNAGA DE ORO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23300,
+      "nombreMunicipio": "COTORRA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23350,
+      "nombreMunicipio": "LA APARTADA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23417,
+      "nombreMunicipio": "LORICA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23419,
+      "nombreMunicipio": "LOS CÓRDOBAS",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23464,
+      "nombreMunicipio": "MOMIL",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23466,
+      "nombreMunicipio": "MONTELÍBANO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23500,
+      "nombreMunicipio": "MOÑITOS",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23555,
+      "nombreMunicipio": "PLANETA RICA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23570,
+      "nombreMunicipio": "PUEBLO NUEVO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23574,
+      "nombreMunicipio": "PUERTO ESCONDIDO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23580,
+      "nombreMunicipio": "PUERTO LIBERTADOR",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23586,
+      "nombreMunicipio": "PURÍSIMA DE LA CONCEPCIÓN",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23660,
+      "nombreMunicipio": "SAHAGÚN",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23670,
+      "nombreMunicipio": "SAN ANDRÉS DE SOTAVENTO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23672,
+      "nombreMunicipio": "SAN ANTERO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23675,
+      "nombreMunicipio": "SAN BERNARDO DEL VIENTO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23678,
+      "nombreMunicipio": "SAN CARLOS",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23682,
+      "nombreMunicipio": "SAN JOSÉ DE URÉ",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23686,
+      "nombreMunicipio": "SAN PELAYO",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23807,
+      "nombreMunicipio": "TIERRALTA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23815,
+      "nombreMunicipio": "TUCHÍN",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 23855,
+      "nombreMunicipio": "VALENCIA",
+      "codigoDepto": 23
+    },
+    {
+      "codigoMunicipio": 25001,
+      "nombreMunicipio": "AGUA DE DIOS",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25019,
+      "nombreMunicipio": "ALBÁN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25035,
+      "nombreMunicipio": "ANAPOIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25040,
+      "nombreMunicipio": "ANOLAIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25053,
+      "nombreMunicipio": "ARBELÁEZ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25086,
+      "nombreMunicipio": "BELTRÁN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25095,
+      "nombreMunicipio": "BITUIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25099,
+      "nombreMunicipio": "BOJACÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25120,
+      "nombreMunicipio": "CABRERA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25123,
+      "nombreMunicipio": "CACHIPAY",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25126,
+      "nombreMunicipio": "CAJICÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25148,
+      "nombreMunicipio": "CAPARRAPÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25151,
+      "nombreMunicipio": "CÁQUEZA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25154,
+      "nombreMunicipio": "CARMEN DE CARUPA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25168,
+      "nombreMunicipio": "CHAGUANÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25175,
+      "nombreMunicipio": "CHÍA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25178,
+      "nombreMunicipio": "CHIPAQUE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25181,
+      "nombreMunicipio": "CHOACHÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25183,
+      "nombreMunicipio": "CHOCONTÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25200,
+      "nombreMunicipio": "COGUA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25214,
+      "nombreMunicipio": "COTA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25224,
+      "nombreMunicipio": "CUCUNUBÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25245,
+      "nombreMunicipio": "EL COLEGIO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25258,
+      "nombreMunicipio": "EL PEÑÓN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25260,
+      "nombreMunicipio": "EL ROSAL",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25269,
+      "nombreMunicipio": "FACATATIVÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25279,
+      "nombreMunicipio": "FÓMEQUE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25281,
+      "nombreMunicipio": "FOSCA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25286,
+      "nombreMunicipio": "FUNZA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25288,
+      "nombreMunicipio": "FÚQUENE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25290,
+      "nombreMunicipio": "FUSAGASUGÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25293,
+      "nombreMunicipio": "GACHALÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25295,
+      "nombreMunicipio": "GACHANCIPÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25297,
+      "nombreMunicipio": "GACHETÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25299,
+      "nombreMunicipio": "GAMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25307,
+      "nombreMunicipio": "GIRARDOT",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25312,
+      "nombreMunicipio": "GRANADA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25317,
+      "nombreMunicipio": "GUACHETÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25320,
+      "nombreMunicipio": "GUADUAS",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25322,
+      "nombreMunicipio": "GUASCA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25324,
+      "nombreMunicipio": "GUATAQUÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25326,
+      "nombreMunicipio": "GUATAVITA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25328,
+      "nombreMunicipio": "GUAYABAL DE SÍQUIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25335,
+      "nombreMunicipio": "GUAYABETAL",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25339,
+      "nombreMunicipio": "GUTIÉRREZ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25368,
+      "nombreMunicipio": "JERUSALÉN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25372,
+      "nombreMunicipio": "JUNÍN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25377,
+      "nombreMunicipio": "LA CALERA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25386,
+      "nombreMunicipio": "LA MESA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25394,
+      "nombreMunicipio": "LA PALMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25398,
+      "nombreMunicipio": "LA PEÑA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25402,
+      "nombreMunicipio": "LA VEGA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25407,
+      "nombreMunicipio": "LENGUAZAQUE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25426,
+      "nombreMunicipio": "MACHETÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25430,
+      "nombreMunicipio": "MADRID",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25436,
+      "nombreMunicipio": "MANTA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25438,
+      "nombreMunicipio": "MEDINA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25473,
+      "nombreMunicipio": "MOSQUERA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25483,
+      "nombreMunicipio": "NARIÑO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25486,
+      "nombreMunicipio": "NEMOCÓN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25488,
+      "nombreMunicipio": "NILO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25489,
+      "nombreMunicipio": "NIMAIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25491,
+      "nombreMunicipio": "NOCAIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25506,
+      "nombreMunicipio": "VENECIA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25513,
+      "nombreMunicipio": "PACHO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25518,
+      "nombreMunicipio": "PAIME",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25524,
+      "nombreMunicipio": "PANDI",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25530,
+      "nombreMunicipio": "PARATEBUENO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25535,
+      "nombreMunicipio": "PASCA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25572,
+      "nombreMunicipio": "PUERTO SALGAR",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25580,
+      "nombreMunicipio": "PULÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25592,
+      "nombreMunicipio": "QUEBRADANEGRA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25594,
+      "nombreMunicipio": "QUETAME",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25596,
+      "nombreMunicipio": "QUIPILE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25599,
+      "nombreMunicipio": "APULO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25612,
+      "nombreMunicipio": "RICAURTE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25645,
+      "nombreMunicipio": "SAN ANTONIO DEL TEQUENDAMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25649,
+      "nombreMunicipio": "SAN BERNARDO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25653,
+      "nombreMunicipio": "SAN CAYETANO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25658,
+      "nombreMunicipio": "SAN FRANCISCO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25662,
+      "nombreMunicipio": "SAN JUAN DE RIOSECO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25718,
+      "nombreMunicipio": "SASAIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25736,
+      "nombreMunicipio": "SESQUILÉ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25740,
+      "nombreMunicipio": "SIBATÉ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25743,
+      "nombreMunicipio": "SILVANIA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25745,
+      "nombreMunicipio": "SIMIJACA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25754,
+      "nombreMunicipio": "SOACHA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25758,
+      "nombreMunicipio": "SOPÓ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25769,
+      "nombreMunicipio": "SUBACHOQUE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25772,
+      "nombreMunicipio": "SUESCA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25777,
+      "nombreMunicipio": "SUPATÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25779,
+      "nombreMunicipio": "SUSA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25781,
+      "nombreMunicipio": "SUTATAUSA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25785,
+      "nombreMunicipio": "TABIO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25793,
+      "nombreMunicipio": "TAUSA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25797,
+      "nombreMunicipio": "TENA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25799,
+      "nombreMunicipio": "TENJO",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25805,
+      "nombreMunicipio": "TIBACUY",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25807,
+      "nombreMunicipio": "TIBIRITA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25815,
+      "nombreMunicipio": "TOCAIMA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25817,
+      "nombreMunicipio": "TOCANCIPÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25823,
+      "nombreMunicipio": "TOPAIPÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25839,
+      "nombreMunicipio": "UBALÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25841,
+      "nombreMunicipio": "UBAQUE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25843,
+      "nombreMunicipio": "VILLA DE SAN DIEGO DE UBATÉ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25845,
+      "nombreMunicipio": "UNE",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25851,
+      "nombreMunicipio": "ÚTICA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25862,
+      "nombreMunicipio": "VERGARA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25867,
+      "nombreMunicipio": "VIANÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25871,
+      "nombreMunicipio": "VILLAGÓMEZ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25873,
+      "nombreMunicipio": "VILLAPINZÓN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25875,
+      "nombreMunicipio": "VILLETA",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25878,
+      "nombreMunicipio": "VIOTÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25885,
+      "nombreMunicipio": "YACOPÍ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25898,
+      "nombreMunicipio": "ZIPACÓN",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 25899,
+      "nombreMunicipio": "ZIPAQUIRÁ",
+      "codigoDepto": 25
+    },
+    {
+      "codigoMunicipio": 27001,
+      "nombreMunicipio": "QUIBDÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27006,
+      "nombreMunicipio": "ACANDÍ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27025,
+      "nombreMunicipio": "ALTO BAUDÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27050,
+      "nombreMunicipio": "ATRATO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27073,
+      "nombreMunicipio": "BAGADÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27075,
+      "nombreMunicipio": "BAHÍA SOLANO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27077,
+      "nombreMunicipio": "BAJO BAUDÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27099,
+      "nombreMunicipio": "BOJAYÁ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27135,
+      "nombreMunicipio": "EL CANTÓN DEL SAN PABLO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27150,
+      "nombreMunicipio": "CARMEN DEL DARIÉN",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27160,
+      "nombreMunicipio": "CÉRTEGUI",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27205,
+      "nombreMunicipio": "CONDOTO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27245,
+      "nombreMunicipio": "EL CARMEN DE ATRATO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27250,
+      "nombreMunicipio": "EL LITORAL DEL SAN JUAN",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27361,
+      "nombreMunicipio": "ISTMINA",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27372,
+      "nombreMunicipio": "JURADÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27413,
+      "nombreMunicipio": "LLORÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27425,
+      "nombreMunicipio": "MEDIO ATRATO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27430,
+      "nombreMunicipio": "MEDIO BAUDÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27450,
+      "nombreMunicipio": "MEDIO SAN JUAN",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27491,
+      "nombreMunicipio": "NÓVITA",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27495,
+      "nombreMunicipio": "NUQUÍ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27580,
+      "nombreMunicipio": "RÍO IRÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27600,
+      "nombreMunicipio": "RÍO QUITO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27615,
+      "nombreMunicipio": "RIOSUCIO",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27660,
+      "nombreMunicipio": "SAN JOSÉ DEL PALMAR",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27745,
+      "nombreMunicipio": "SIPÍ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27787,
+      "nombreMunicipio": "TADÓ",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27800,
+      "nombreMunicipio": "UNGUÍA",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 27810,
+      "nombreMunicipio": "UNIÓN PANAMERICANA",
+      "codigoDepto": 27
+    },
+    {
+      "codigoMunicipio": 41001,
+      "nombreMunicipio": "NEIVA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41006,
+      "nombreMunicipio": "ACEVEDO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41013,
+      "nombreMunicipio": "AGRADO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41016,
+      "nombreMunicipio": "AIPE",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41020,
+      "nombreMunicipio": "ALGECIRAS",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41026,
+      "nombreMunicipio": "ALTAMIRA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41078,
+      "nombreMunicipio": "BARAYA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41132,
+      "nombreMunicipio": "CAMPOALEGRE",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41206,
+      "nombreMunicipio": "COLOMBIA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41244,
+      "nombreMunicipio": "ELÍAS",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41298,
+      "nombreMunicipio": "GARZÓN",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41306,
+      "nombreMunicipio": "GIGANTE",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41319,
+      "nombreMunicipio": "GUADALUPE",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41349,
+      "nombreMunicipio": "HOBO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41357,
+      "nombreMunicipio": "ÍQUIRA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41359,
+      "nombreMunicipio": "ISNOS",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41378,
+      "nombreMunicipio": "LA ARGENTINA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41396,
+      "nombreMunicipio": "LA PLATA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41483,
+      "nombreMunicipio": "NÁTAGA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41503,
+      "nombreMunicipio": "OPORAPA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41518,
+      "nombreMunicipio": "PAICOL",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41524,
+      "nombreMunicipio": "PALERMO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41530,
+      "nombreMunicipio": "PALESTINA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41548,
+      "nombreMunicipio": "PITAL",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41551,
+      "nombreMunicipio": "PITALITO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41615,
+      "nombreMunicipio": "RIVERA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41660,
+      "nombreMunicipio": "SALADOBLANCO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41668,
+      "nombreMunicipio": "SAN AGUSTÍN",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41676,
+      "nombreMunicipio": "SANTA MARÍA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41770,
+      "nombreMunicipio": "SUAZA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41791,
+      "nombreMunicipio": "TARQUI",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41797,
+      "nombreMunicipio": "TESALIA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41799,
+      "nombreMunicipio": "TELLO",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41801,
+      "nombreMunicipio": "TERUEL",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41807,
+      "nombreMunicipio": "TIMANÁ",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41872,
+      "nombreMunicipio": "VILLAVIEJA",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 41885,
+      "nombreMunicipio": "YAGUARÁ",
+      "codigoDepto": 41
+    },
+    {
+      "codigoMunicipio": 44001,
+      "nombreMunicipio": "RIOHACHA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44035,
+      "nombreMunicipio": "ALBANIA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44078,
+      "nombreMunicipio": "BARRANCAS",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44090,
+      "nombreMunicipio": "DIBULLA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44098,
+      "nombreMunicipio": "DISTRACCIÓN",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44110,
+      "nombreMunicipio": "EL MOLINO",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44279,
+      "nombreMunicipio": "FONSECA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44378,
+      "nombreMunicipio": "HATONUEVO",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44420,
+      "nombreMunicipio": "LA JAGUA DEL PILAR",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44430,
+      "nombreMunicipio": "MAICAO",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44560,
+      "nombreMunicipio": "MANAURE",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44650,
+      "nombreMunicipio": "SAN JUAN DEL CESAR",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44847,
+      "nombreMunicipio": "URIBIA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44855,
+      "nombreMunicipio": "URUMITA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 44874,
+      "nombreMunicipio": "VILLANUEVA",
+      "codigoDepto": 44
+    },
+    {
+      "codigoMunicipio": 47001,
+      "nombreMunicipio": "SANTA MARTA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47030,
+      "nombreMunicipio": "ALGARROBO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47053,
+      "nombreMunicipio": "ARACATACA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47058,
+      "nombreMunicipio": "ARIGUANÍ",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47161,
+      "nombreMunicipio": "CERRO DE SAN ANTONIO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47170,
+      "nombreMunicipio": "CHIVOLO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47189,
+      "nombreMunicipio": "CIÉNAGA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47205,
+      "nombreMunicipio": "CONCORDIA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47245,
+      "nombreMunicipio": "EL BANCO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47258,
+      "nombreMunicipio": "EL PIÑÓN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47268,
+      "nombreMunicipio": "EL RETÉN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47288,
+      "nombreMunicipio": "FUNDACIÓN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47318,
+      "nombreMunicipio": "GUAMAL",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47460,
+      "nombreMunicipio": "NUEVA GRANADA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47541,
+      "nombreMunicipio": "PEDRAZA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47545,
+      "nombreMunicipio": "PIJIÑO DEL CARMEN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47551,
+      "nombreMunicipio": "PIVIJAY",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47555,
+      "nombreMunicipio": "PLATO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47570,
+      "nombreMunicipio": "PUEBLOVIEJO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47605,
+      "nombreMunicipio": "REMOLINO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47660,
+      "nombreMunicipio": "SABANAS DE SAN ÁNGEL",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47675,
+      "nombreMunicipio": "SALAMINA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47692,
+      "nombreMunicipio": "SAN SEBASTIÁN DE BUENAVISTA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47703,
+      "nombreMunicipio": "SAN ZENÓN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47707,
+      "nombreMunicipio": "SANTA ANA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47720,
+      "nombreMunicipio": "SANTA BÁRBARA DE PINTO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47745,
+      "nombreMunicipio": "SITIONUEVO",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47798,
+      "nombreMunicipio": "TENERIFE",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47960,
+      "nombreMunicipio": "ZAPAYÁN",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 47980,
+      "nombreMunicipio": "ZONA BANANERA",
+      "codigoDepto": 47
+    },
+    {
+      "codigoMunicipio": 50001,
+      "nombreMunicipio": "VILLAVICENCIO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50006,
+      "nombreMunicipio": "ACACÍAS",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50110,
+      "nombreMunicipio": "BARRANCA DE UPÍA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50124,
+      "nombreMunicipio": "CABUYARO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50150,
+      "nombreMunicipio": "CASTILLA LA NUEVA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50223,
+      "nombreMunicipio": "CUBARRAL",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50226,
+      "nombreMunicipio": "CUMARAL",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50245,
+      "nombreMunicipio": "EL CALVARIO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50251,
+      "nombreMunicipio": "EL CASTILLO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50270,
+      "nombreMunicipio": "EL DORADO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50287,
+      "nombreMunicipio": "FUENTE DE ORO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50313,
+      "nombreMunicipio": "GRANADA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50318,
+      "nombreMunicipio": "GUAMAL",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50325,
+      "nombreMunicipio": "MAPIRIPÁN",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50330,
+      "nombreMunicipio": "MESETAS",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50350,
+      "nombreMunicipio": "LA MACARENA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50370,
+      "nombreMunicipio": "URIBE",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50400,
+      "nombreMunicipio": "LEJANÍAS",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50450,
+      "nombreMunicipio": "PUERTO CONCORDIA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50568,
+      "nombreMunicipio": "PUERTO GAITÁN",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50573,
+      "nombreMunicipio": "PUERTO LÓPEZ",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50577,
+      "nombreMunicipio": "PUERTO LLERAS",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50590,
+      "nombreMunicipio": "PUERTO RICO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50606,
+      "nombreMunicipio": "RESTREPO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50680,
+      "nombreMunicipio": "SAN CARLOS DE GUAROA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50683,
+      "nombreMunicipio": "SAN JUAN DE ARAMA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50686,
+      "nombreMunicipio": "SAN JUANITO",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50689,
+      "nombreMunicipio": "SAN MARTÍN",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 50711,
+      "nombreMunicipio": "VISTAHERMOSA",
+      "codigoDepto": 50
+    },
+    {
+      "codigoMunicipio": 52001,
+      "nombreMunicipio": "PASTO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52019,
+      "nombreMunicipio": "ALBÁN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52022,
+      "nombreMunicipio": "ALDANA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52036,
+      "nombreMunicipio": "ANCUYÁ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52051,
+      "nombreMunicipio": "ARBOLEDA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52079,
+      "nombreMunicipio": "BARBACOAS",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52083,
+      "nombreMunicipio": "BELÉN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52110,
+      "nombreMunicipio": "BUESACO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52203,
+      "nombreMunicipio": "COLÓN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52207,
+      "nombreMunicipio": "CONSACÁ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52210,
+      "nombreMunicipio": "CONTADERO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52215,
+      "nombreMunicipio": "CÓRDOBA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52224,
+      "nombreMunicipio": "CUASPÚD",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52227,
+      "nombreMunicipio": "CUMBAL",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52233,
+      "nombreMunicipio": "CUMBITARA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52240,
+      "nombreMunicipio": "CHACHAGÜÍ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52250,
+      "nombreMunicipio": "EL CHARCO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52254,
+      "nombreMunicipio": "EL PEÑOL",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52256,
+      "nombreMunicipio": "EL ROSARIO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52258,
+      "nombreMunicipio": "EL TABLÓN DE GÓMEZ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52260,
+      "nombreMunicipio": "EL TAMBO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52287,
+      "nombreMunicipio": "FUNES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52317,
+      "nombreMunicipio": "GUACHUCAL",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52320,
+      "nombreMunicipio": "GUAITARILLA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52323,
+      "nombreMunicipio": "GUALMATÁN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52352,
+      "nombreMunicipio": "ILES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52354,
+      "nombreMunicipio": "IMUÉS",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52356,
+      "nombreMunicipio": "IPIALES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52378,
+      "nombreMunicipio": "LA CRUZ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52381,
+      "nombreMunicipio": "LA FLORIDA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52385,
+      "nombreMunicipio": "LA LLANADA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52390,
+      "nombreMunicipio": "LA TOLA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52399,
+      "nombreMunicipio": "LA UNIÓN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52405,
+      "nombreMunicipio": "LEIVA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52411,
+      "nombreMunicipio": "LINARES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52418,
+      "nombreMunicipio": "LOS ANDES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52427,
+      "nombreMunicipio": "MAGÜÍ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52435,
+      "nombreMunicipio": "MALLAMA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52473,
+      "nombreMunicipio": "MOSQUERA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52480,
+      "nombreMunicipio": "NARIÑO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52490,
+      "nombreMunicipio": "OLAYA HERRERA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52506,
+      "nombreMunicipio": "OSPINA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52520,
+      "nombreMunicipio": "FRANCISCO PIZARRO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52540,
+      "nombreMunicipio": "POLICARPA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52560,
+      "nombreMunicipio": "POTOSÍ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52565,
+      "nombreMunicipio": "PROVIDENCIA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52573,
+      "nombreMunicipio": "PUERRES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52585,
+      "nombreMunicipio": "PUPIALES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52612,
+      "nombreMunicipio": "RICAURTE",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52621,
+      "nombreMunicipio": "ROBERTO PAYÁN",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52678,
+      "nombreMunicipio": "SAMANIEGO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52683,
+      "nombreMunicipio": "SANDONÁ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52685,
+      "nombreMunicipio": "SAN BERNARDO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52687,
+      "nombreMunicipio": "SAN LORENZO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52693,
+      "nombreMunicipio": "SAN PABLO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52694,
+      "nombreMunicipio": "SAN PEDRO DE CARTAGO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52696,
+      "nombreMunicipio": "SANTA BÁRBARA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52699,
+      "nombreMunicipio": "SANTACRUZ",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52720,
+      "nombreMunicipio": "SAPUYES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52786,
+      "nombreMunicipio": "TAMINANGO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52788,
+      "nombreMunicipio": "TANGUA",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52835,
+      "nombreMunicipio": "SAN ANDRÉS DE TUMACO",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52838,
+      "nombreMunicipio": "TÚQUERRES",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 52885,
+      "nombreMunicipio": "YACUANQUER",
+      "codigoDepto": 52
+    },
+    {
+      "codigoMunicipio": 54001,
+      "nombreMunicipio": "CÚCUTA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54003,
+      "nombreMunicipio": "ÁBREGO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54051,
+      "nombreMunicipio": "ARBOLEDAS",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54099,
+      "nombreMunicipio": "BOCHALEMA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54109,
+      "nombreMunicipio": "BUCARASICA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54125,
+      "nombreMunicipio": "CÁCOTA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54128,
+      "nombreMunicipio": "CÁCHIRA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54172,
+      "nombreMunicipio": "CHINÁCOTA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54174,
+      "nombreMunicipio": "CHITAGÁ",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54206,
+      "nombreMunicipio": "CONVENCIÓN",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54223,
+      "nombreMunicipio": "CUCUTILLA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54239,
+      "nombreMunicipio": "DURANIA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54245,
+      "nombreMunicipio": "EL CARMEN",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54250,
+      "nombreMunicipio": "EL TARRA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54261,
+      "nombreMunicipio": "EL ZULIA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54313,
+      "nombreMunicipio": "GRAMALOTE",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54344,
+      "nombreMunicipio": "HACARÍ",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54347,
+      "nombreMunicipio": "HERRÁN",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54377,
+      "nombreMunicipio": "LABATECA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54385,
+      "nombreMunicipio": "LA ESPERANZA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54398,
+      "nombreMunicipio": "LA PLAYA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54405,
+      "nombreMunicipio": "LOS PATIOS",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54418,
+      "nombreMunicipio": "LOURDES",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54480,
+      "nombreMunicipio": "MUTISCUA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54498,
+      "nombreMunicipio": "OCAÑA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54518,
+      "nombreMunicipio": "PAMPLONA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54520,
+      "nombreMunicipio": "PAMPLONITA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54553,
+      "nombreMunicipio": "PUERTO SANTANDER",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54599,
+      "nombreMunicipio": "RAGONVALIA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54660,
+      "nombreMunicipio": "SALAZAR",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54670,
+      "nombreMunicipio": "SAN CALIXTO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54673,
+      "nombreMunicipio": "SAN CAYETANO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54680,
+      "nombreMunicipio": "SANTIAGO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54720,
+      "nombreMunicipio": "SARDINATA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54743,
+      "nombreMunicipio": "SILOS",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54800,
+      "nombreMunicipio": "TEORAMA",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54810,
+      "nombreMunicipio": "TIBÚ",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54820,
+      "nombreMunicipio": "TOLEDO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54871,
+      "nombreMunicipio": "VILLA CARO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 54874,
+      "nombreMunicipio": "VILLA DEL ROSARIO",
+      "codigoDepto": 54
+    },
+    {
+      "codigoMunicipio": 63001,
+      "nombreMunicipio": "ARMENIA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63111,
+      "nombreMunicipio": "BUENAVISTA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63130,
+      "nombreMunicipio": "CALARCÁ",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63190,
+      "nombreMunicipio": "CIRCASIA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63212,
+      "nombreMunicipio": "CÓRDOBA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63272,
+      "nombreMunicipio": "FILANDIA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63302,
+      "nombreMunicipio": "GÉNOVA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63401,
+      "nombreMunicipio": "LA TEBAIDA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63470,
+      "nombreMunicipio": "MONTENEGRO",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63548,
+      "nombreMunicipio": "PIJAO",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63594,
+      "nombreMunicipio": "QUIMBAYA",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 63690,
+      "nombreMunicipio": "SALENTO",
+      "codigoDepto": 63
+    },
+    {
+      "codigoMunicipio": 66001,
+      "nombreMunicipio": "PEREIRA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66045,
+      "nombreMunicipio": "APÍA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66075,
+      "nombreMunicipio": "BALBOA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66088,
+      "nombreMunicipio": "BELÉN DE UMBRÍA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66170,
+      "nombreMunicipio": "DOSQUEBRADAS",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66318,
+      "nombreMunicipio": "GUÁTICA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66383,
+      "nombreMunicipio": "LA CELIA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66400,
+      "nombreMunicipio": "LA VIRGINIA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66440,
+      "nombreMunicipio": "MARSELLA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66456,
+      "nombreMunicipio": "MISTRATÓ",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66572,
+      "nombreMunicipio": "PUEBLO RICO",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66594,
+      "nombreMunicipio": "QUINCHÍA",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66682,
+      "nombreMunicipio": "SANTA ROSA DE CABAL",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 66687,
+      "nombreMunicipio": "SANTUARIO",
+      "codigoDepto": 66
+    },
+    {
+      "codigoMunicipio": 68001,
+      "nombreMunicipio": "BUCARAMANGA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68013,
+      "nombreMunicipio": "AGUADA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68020,
+      "nombreMunicipio": "ALBANIA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68051,
+      "nombreMunicipio": "ARATOCA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68077,
+      "nombreMunicipio": "BARBOSA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68079,
+      "nombreMunicipio": "BARICHARA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68081,
+      "nombreMunicipio": "BARRANCABERMEJA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68092,
+      "nombreMunicipio": "BETULIA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68101,
+      "nombreMunicipio": "BOLÍVAR",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68121,
+      "nombreMunicipio": "CABRERA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68132,
+      "nombreMunicipio": "CALIFORNIA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68147,
+      "nombreMunicipio": "CAPITANEJO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68152,
+      "nombreMunicipio": "CARCASÍ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68160,
+      "nombreMunicipio": "CEPITÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68162,
+      "nombreMunicipio": "CERRITO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68167,
+      "nombreMunicipio": "CHARALÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68169,
+      "nombreMunicipio": "CHARTA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68176,
+      "nombreMunicipio": "CHIMA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68179,
+      "nombreMunicipio": "CHIPATÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68190,
+      "nombreMunicipio": "CIMITARRA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68207,
+      "nombreMunicipio": "CONCEPCIÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68209,
+      "nombreMunicipio": "CONFINES",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68211,
+      "nombreMunicipio": "CONTRATACIÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68217,
+      "nombreMunicipio": "COROMORO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68229,
+      "nombreMunicipio": "CURITÍ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68235,
+      "nombreMunicipio": "EL CARMEN DE CHUCURÍ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68245,
+      "nombreMunicipio": "EL GUACAMAYO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68250,
+      "nombreMunicipio": "EL PEÑÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68255,
+      "nombreMunicipio": "EL PLAYÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68264,
+      "nombreMunicipio": "ENCINO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68266,
+      "nombreMunicipio": "ENCISO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68271,
+      "nombreMunicipio": "FLORIÁN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68276,
+      "nombreMunicipio": "FLORIDABLANCA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68296,
+      "nombreMunicipio": "GALÁN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68298,
+      "nombreMunicipio": "GÁMBITA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68307,
+      "nombreMunicipio": "GIRÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68318,
+      "nombreMunicipio": "GUACA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68320,
+      "nombreMunicipio": "GUADALUPE",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68322,
+      "nombreMunicipio": "GUAPOTÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68324,
+      "nombreMunicipio": "GUAVATÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68327,
+      "nombreMunicipio": "GÜEPSA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68344,
+      "nombreMunicipio": "HATO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68368,
+      "nombreMunicipio": "JESÚS MARÍA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68370,
+      "nombreMunicipio": "JORDÁN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68377,
+      "nombreMunicipio": "LA BELLEZA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68385,
+      "nombreMunicipio": "LANDÁZURI",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68397,
+      "nombreMunicipio": "LA PAZ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68406,
+      "nombreMunicipio": "LEBRIJA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68418,
+      "nombreMunicipio": "LOS SANTOS",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68425,
+      "nombreMunicipio": "MACARAVITA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68432,
+      "nombreMunicipio": "MÁLAGA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68444,
+      "nombreMunicipio": "MATANZA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68464,
+      "nombreMunicipio": "MOGOTES",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68468,
+      "nombreMunicipio": "MOLAGAVITA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68498,
+      "nombreMunicipio": "OCAMONTE",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68500,
+      "nombreMunicipio": "OIBA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68502,
+      "nombreMunicipio": "ONZAGA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68522,
+      "nombreMunicipio": "PALMAR",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68524,
+      "nombreMunicipio": "PALMAS DEL SOCORRO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68533,
+      "nombreMunicipio": "PÁRAMO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68547,
+      "nombreMunicipio": "PIEDECUESTA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68549,
+      "nombreMunicipio": "PINCHOTE",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68572,
+      "nombreMunicipio": "PUENTE NACIONAL",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68573,
+      "nombreMunicipio": "PUERTO PARRA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68575,
+      "nombreMunicipio": "PUERTO WILCHES",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68615,
+      "nombreMunicipio": "RIONEGRO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68655,
+      "nombreMunicipio": "SABANA DE TORRES",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68669,
+      "nombreMunicipio": "SAN ANDRÉS",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68673,
+      "nombreMunicipio": "SAN BENITO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68679,
+      "nombreMunicipio": "SAN GIL",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68682,
+      "nombreMunicipio": "SAN JOAQUÍN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68684,
+      "nombreMunicipio": "SAN JOSÉ DE MIRANDA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68686,
+      "nombreMunicipio": "SAN MIGUEL",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68689,
+      "nombreMunicipio": "SAN VICENTE DE CHUCURÍ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68705,
+      "nombreMunicipio": "SANTA BÁRBARA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68720,
+      "nombreMunicipio": "SANTA HELENA DEL OPÓN",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68745,
+      "nombreMunicipio": "SIMACOTA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68755,
+      "nombreMunicipio": "SOCORRO",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68770,
+      "nombreMunicipio": "SUAITA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68773,
+      "nombreMunicipio": "SUCRE",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68780,
+      "nombreMunicipio": "SURATÁ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68820,
+      "nombreMunicipio": "TONA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68855,
+      "nombreMunicipio": "VALLE DE SAN JOSÉ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68861,
+      "nombreMunicipio": "VÉLEZ",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68867,
+      "nombreMunicipio": "VETAS",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68872,
+      "nombreMunicipio": "VILLANUEVA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 68895,
+      "nombreMunicipio": "ZAPATOCA",
+      "codigoDepto": 68
+    },
+    {
+      "codigoMunicipio": 70001,
+      "nombreMunicipio": "SINCELEJO",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70110,
+      "nombreMunicipio": "BUENAVISTA",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70124,
+      "nombreMunicipio": "CAIMITO",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70204,
+      "nombreMunicipio": "COLOSÓ",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70215,
+      "nombreMunicipio": "COROZAL",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70221,
+      "nombreMunicipio": "COVEÑAS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70230,
+      "nombreMunicipio": "CHALÁN",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70233,
+      "nombreMunicipio": "EL ROBLE",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70235,
+      "nombreMunicipio": "GALERAS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70265,
+      "nombreMunicipio": "GUARANDA",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70400,
+      "nombreMunicipio": "LA UNIÓN",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70418,
+      "nombreMunicipio": "LOS PALMITOS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70429,
+      "nombreMunicipio": "MAJAGUAL",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70473,
+      "nombreMunicipio": "MORROA",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70508,
+      "nombreMunicipio": "OVEJAS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70523,
+      "nombreMunicipio": "PALMITO",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70670,
+      "nombreMunicipio": "SAMPUÉS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70678,
+      "nombreMunicipio": "SAN BENITO ABAD",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70702,
+      "nombreMunicipio": "SAN JUAN DE BETULIA",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70708,
+      "nombreMunicipio": "SAN MARCOS",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70713,
+      "nombreMunicipio": "SAN ONOFRE",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70717,
+      "nombreMunicipio": "SAN PEDRO",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70742,
+      "nombreMunicipio": "SAN LUIS DE SINCÉ",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70771,
+      "nombreMunicipio": "SUCRE",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70820,
+      "nombreMunicipio": "SANTIAGO DE TOLÚ",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 70823,
+      "nombreMunicipio": "TOLÚ VIEJO",
+      "codigoDepto": 70
+    },
+    {
+      "codigoMunicipio": 73001,
+      "nombreMunicipio": "IBAGUÉ",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73024,
+      "nombreMunicipio": "ALPUJARRA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73026,
+      "nombreMunicipio": "ALVARADO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73030,
+      "nombreMunicipio": "AMBALEMA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73043,
+      "nombreMunicipio": "ANZOÁTEGUI",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73055,
+      "nombreMunicipio": "ARMERO GUAYABAL",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73067,
+      "nombreMunicipio": "ATACO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73124,
+      "nombreMunicipio": "CAJAMARCA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73148,
+      "nombreMunicipio": "CARMEN DE APICALÁ",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73152,
+      "nombreMunicipio": "CASABIANCA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73168,
+      "nombreMunicipio": "CHAPARRAL",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73200,
+      "nombreMunicipio": "COELLO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73217,
+      "nombreMunicipio": "COYAIMA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73226,
+      "nombreMunicipio": "CUNDAY",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73236,
+      "nombreMunicipio": "DOLORES",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73268,
+      "nombreMunicipio": "ESPINAL",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73270,
+      "nombreMunicipio": "FALAN",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73275,
+      "nombreMunicipio": "FLANDES",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73283,
+      "nombreMunicipio": "FRESNO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73319,
+      "nombreMunicipio": "GUAMO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73347,
+      "nombreMunicipio": "HERVEO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73349,
+      "nombreMunicipio": "HONDA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73352,
+      "nombreMunicipio": "ICONONZO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73408,
+      "nombreMunicipio": "LÉRIDA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73411,
+      "nombreMunicipio": "LÍBANO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73443,
+      "nombreMunicipio": "SAN SEBASTIÁN DE MARIQUITA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73449,
+      "nombreMunicipio": "MELGAR",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73461,
+      "nombreMunicipio": "MURILLO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73483,
+      "nombreMunicipio": "NATAGAIMA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73504,
+      "nombreMunicipio": "ORTEGA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73520,
+      "nombreMunicipio": "PALOCABILDO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73547,
+      "nombreMunicipio": "PIEDRAS",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73555,
+      "nombreMunicipio": "PLANADAS",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73563,
+      "nombreMunicipio": "PRADO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73585,
+      "nombreMunicipio": "PURIFICACIÓN",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73616,
+      "nombreMunicipio": "RIOBLANCO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73622,
+      "nombreMunicipio": "RONCESVALLES",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73624,
+      "nombreMunicipio": "ROVIRA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73671,
+      "nombreMunicipio": "SALDAÑA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73675,
+      "nombreMunicipio": "SAN ANTONIO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73678,
+      "nombreMunicipio": "SAN LUIS",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73686,
+      "nombreMunicipio": "SANTA ISABEL",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73770,
+      "nombreMunicipio": "SUÁREZ",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73854,
+      "nombreMunicipio": "VALLE DE SAN JUAN",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73861,
+      "nombreMunicipio": "VENADILLO",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73870,
+      "nombreMunicipio": "VILLAHERMOSA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 73873,
+      "nombreMunicipio": "VILLARRICA",
+      "codigoDepto": 73
+    },
+    {
+      "codigoMunicipio": 76001,
+      "nombreMunicipio": "CALI",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76020,
+      "nombreMunicipio": "ALCALÁ",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76036,
+      "nombreMunicipio": "ANDALUCÍA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76041,
+      "nombreMunicipio": "ANSERMANUEVO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76054,
+      "nombreMunicipio": "ARGELIA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76100,
+      "nombreMunicipio": "BOLÍVAR",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76109,
+      "nombreMunicipio": "BUENAVENTURA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76111,
+      "nombreMunicipio": "GUADALAJARA DE BUGA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76113,
+      "nombreMunicipio": "BUGALAGRANDE",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76122,
+      "nombreMunicipio": "CAICEDONIA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76126,
+      "nombreMunicipio": "CALIMA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76130,
+      "nombreMunicipio": "CANDELARIA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76147,
+      "nombreMunicipio": "CARTAGO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76233,
+      "nombreMunicipio": "DAGUA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76243,
+      "nombreMunicipio": "EL ÁGUILA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76246,
+      "nombreMunicipio": "EL CAIRO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76248,
+      "nombreMunicipio": "EL CERRITO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76250,
+      "nombreMunicipio": "EL DOVIO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76275,
+      "nombreMunicipio": "FLORIDA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76306,
+      "nombreMunicipio": "GINEBRA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76318,
+      "nombreMunicipio": "GUACARÍ",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76364,
+      "nombreMunicipio": "JAMUNDÍ",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76377,
+      "nombreMunicipio": "LA CUMBRE",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76400,
+      "nombreMunicipio": "LA UNIÓN",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76403,
+      "nombreMunicipio": "LA VICTORIA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76497,
+      "nombreMunicipio": "OBANDO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76520,
+      "nombreMunicipio": "PALMIRA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76563,
+      "nombreMunicipio": "PRADERA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76606,
+      "nombreMunicipio": "RESTREPO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76616,
+      "nombreMunicipio": "RIOFRÍO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76622,
+      "nombreMunicipio": "ROLDANILLO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76670,
+      "nombreMunicipio": "SAN PEDRO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76736,
+      "nombreMunicipio": "SEVILLA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76823,
+      "nombreMunicipio": "TORO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76828,
+      "nombreMunicipio": "TRUJILLO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76834,
+      "nombreMunicipio": "TULUÁ",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76845,
+      "nombreMunicipio": "ULLOA",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76863,
+      "nombreMunicipio": "VERSALLES",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76869,
+      "nombreMunicipio": "VIJES",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76890,
+      "nombreMunicipio": "YOTOCO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76892,
+      "nombreMunicipio": "YUMBO",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 76895,
+      "nombreMunicipio": "ZARZAL",
+      "codigoDepto": 76
+    },
+    {
+      "codigoMunicipio": 81001,
+      "nombreMunicipio": "ARAUCA",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81065,
+      "nombreMunicipio": "ARAUQUITA",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81220,
+      "nombreMunicipio": "CRAVO NORTE",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81300,
+      "nombreMunicipio": "FORTUL",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81591,
+      "nombreMunicipio": "PUERTO RONDÓN",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81736,
+      "nombreMunicipio": "SARAVENA",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 81794,
+      "nombreMunicipio": "TAME",
+      "codigoDepto": 81
+    },
+    {
+      "codigoMunicipio": 85001,
+      "nombreMunicipio": "YOPAL",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85010,
+      "nombreMunicipio": "AGUAZUL",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85015,
+      "nombreMunicipio": "CHÁMEZA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85125,
+      "nombreMunicipio": "HATO COROZAL",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85136,
+      "nombreMunicipio": "LA SALINA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85139,
+      "nombreMunicipio": "MANÍ",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85162,
+      "nombreMunicipio": "MONTERREY",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85225,
+      "nombreMunicipio": "NUNCHÍA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85230,
+      "nombreMunicipio": "OROCUÉ",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85250,
+      "nombreMunicipio": "PAZ DE ARIPORO",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85263,
+      "nombreMunicipio": "PORE",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85279,
+      "nombreMunicipio": "RECETOR",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85300,
+      "nombreMunicipio": "SABANALARGA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85315,
+      "nombreMunicipio": "SÁCAMA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85325,
+      "nombreMunicipio": "SAN LUIS DE PALENQUE",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85400,
+      "nombreMunicipio": "TÁMARA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85410,
+      "nombreMunicipio": "TAURAMENA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85430,
+      "nombreMunicipio": "TRINIDAD",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 85440,
+      "nombreMunicipio": "VILLANUEVA",
+      "codigoDepto": 85
+    },
+    {
+      "codigoMunicipio": 86001,
+      "nombreMunicipio": "MOCOA",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86219,
+      "nombreMunicipio": "COLÓN",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86320,
+      "nombreMunicipio": "ORITO",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86568,
+      "nombreMunicipio": "PUERTO ASÍS",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86569,
+      "nombreMunicipio": "PUERTO CAICEDO",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86571,
+      "nombreMunicipio": "PUERTO GUZMÁN",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86573,
+      "nombreMunicipio": "PUERTO LEGUÍZAMO",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86749,
+      "nombreMunicipio": "SIBUNDOY",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86755,
+      "nombreMunicipio": "SAN FRANCISCO",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86757,
+      "nombreMunicipio": "SAN MIGUEL",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86760,
+      "nombreMunicipio": "SANTIAGO",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86865,
+      "nombreMunicipio": "VALLE DEL GUAMUEZ",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 86885,
+      "nombreMunicipio": "VILLAGARZÓN",
+      "codigoDepto": 86
+    },
+    {
+      "codigoMunicipio": 88001,
+      "nombreMunicipio": "SAN ANDRÉS",
+      "codigoDepto": 88
+    },
+    {
+      "codigoMunicipio": 88564,
+      "nombreMunicipio": "PROVIDENCIA",
+      "codigoDepto": 88
+    },
+    {
+      "codigoMunicipio": 91001,
+      "nombreMunicipio": "LETICIA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91263,
+      "nombreMunicipio": "EL ENCANTO",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91405,
+      "nombreMunicipio": "LA CHORRERA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91407,
+      "nombreMunicipio": "LA PEDRERA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91430,
+      "nombreMunicipio": "LA VICTORIA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91460,
+      "nombreMunicipio": "MIRITÍ - PARANÁ",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91530,
+      "nombreMunicipio": "PUERTO ALEGRÍA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91536,
+      "nombreMunicipio": "PUERTO ARICA",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91540,
+      "nombreMunicipio": "PUERTO NARIÑO",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91669,
+      "nombreMunicipio": "PUERTO SANTANDER",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 91798,
+      "nombreMunicipio": "TARAPACÁ",
+      "codigoDepto": 91
+    },
+    {
+      "codigoMunicipio": 94001,
+      "nombreMunicipio": "INÍRIDA",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94343,
+      "nombreMunicipio": "BARRANCO MINAS",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94663,
+      "nombreMunicipio": "MAPIRIPANA",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94883,
+      "nombreMunicipio": "SAN FELIPE",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94884,
+      "nombreMunicipio": "PUERTO COLOMBIA",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94885,
+      "nombreMunicipio": "LA GUADALUPE",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94886,
+      "nombreMunicipio": "CACAHUAL",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94887,
+      "nombreMunicipio": "PANA PANA",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 94888,
+      "nombreMunicipio": "MORICHAL",
+      "codigoDepto": 94
+    },
+    {
+      "codigoMunicipio": 95001,
+      "nombreMunicipio": "SAN JOSÉ DEL GUAVIARE",
+      "codigoDepto": 95
+    },
+    {
+      "codigoMunicipio": 95015,
+      "nombreMunicipio": "CALAMAR",
+      "codigoDepto": 95
+    },
+    {
+      "codigoMunicipio": 95025,
+      "nombreMunicipio": "EL RETORNO",
+      "codigoDepto": 95
+    },
+    {
+      "codigoMunicipio": 95200,
+      "nombreMunicipio": "MIRAFLORES",
+      "codigoDepto": 95
+    },
+    {
+      "codigoMunicipio": 97001,
+      "nombreMunicipio": "MITÚ",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 97161,
+      "nombreMunicipio": "CARURÚ",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 97511,
+      "nombreMunicipio": "PACOA",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 97666,
+      "nombreMunicipio": "TARAIRA",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 97777,
+      "nombreMunicipio": "PAPUNAUA",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 97889,
+      "nombreMunicipio": "YAVARATÉ",
+      "codigoDepto": 97
+    },
+    {
+      "codigoMunicipio": 99001,
+      "nombreMunicipio": "PUERTO CARREÑO",
+      "codigoDepto": 99
+    },
+    {
+      "codigoMunicipio": 99524,
+      "nombreMunicipio": "LA PRIMAVERA",
+      "codigoDepto": 99
+    },
+    {
+      "codigoMunicipio": 99624,
+      "nombreMunicipio": "SANTA ROSALÍA",
+      "codigoDepto": 99
+    },
+    {
+      "codigoMunicipio": 99773,
+      "nombreMunicipio": "CUMARIBO",
+      "codigoDepto": 99
+    }
+  ]

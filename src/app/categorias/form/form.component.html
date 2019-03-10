@@ -1,0 +1,50 @@
+<mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">
+    
+    <mat-divider></mat-divider>
+      <mat-card-content class="push-bottom-none">
+        <form #formulario="ngForm">
+
+          <div layout="row">
+              <mat-form-field flex>
+                <input matInput
+                        #codigoCategoriaElement
+                        #codigoCategoriaControl="ngModel" 
+                        type="text" 
+                        placeholder="Código categoría" 
+                        [(ngModel)]="objectoPrincipal.codigoCategoria" 
+                        name="codigoCategoria" 
+                        maxlength="4" 
+                        required
+                        [disabled]="this.action !== 'add'">
+                <mat-hint align="start">
+                  <span [hidden]="codigoCategoriaControl?.pristine || !codigoCategoriaControl?.errors?.required" class="tc-red-600">Requerido</span>
+                </mat-hint>
+              </mat-form-field>
+          </div>
+
+          <div layout="row">
+              <mat-form-field flex>
+                <input matInput
+                        #nombreCategoriaElement
+                        #nombreCategoriaControl="ngModel" 
+                        type="text" 
+                        placeholder="Nombre categoría" 
+                        [(ngModel)]="objectoPrincipal.nombreCategoria" 
+                        name="nombreCategoria" 
+                        maxlength="100" 
+                        required>
+                <mat-hint align="start">
+                  <span [hidden]="nombreCategoriaControl?.pristine || !nombreCategoriaControl?.errors?.required" class="tc-red-600">Requerido</span>
+                </mat-hint>
+              </mat-form-field>
+          </div>
+      </form>
+    </mat-card-content>
+
+  <mat-divider></mat-divider>
+  <mat-card-actions>
+    <button mat-button [disabled]="!formulario.valid" color="primary" (click)="save()">Aceptar</button>
+    <button mat-button (click)="goBack()">Cancelar</button>
+  </mat-card-actions>
+</mat-card>
+

@@ -1,0 +1,24 @@
+<td-layout #layout >
+  <td-navigation-drawer 
+                       sidenavTitle="Bienvenido" 
+                       [name]="usuarioSesion?.nombreCompleto" 
+                       [email]="usuarioSesion?.correo">
+
+    <mat-nav-list td-sidenav-content >
+      <ng-template let-item let-last="last" ngFor [ngForOf]="rutas">
+        <!--<a mat-list-item [routerLink]="[item.ruta]" (click)="layout.close()">
+          <mat-icon>{{item.icono}}</mat-icon>{{item.nombre}}
+        </a>-->
+        <a mat-list-item (click)="irOpcion(item)" [tdLayoutToggle]="true" >
+            <mat-icon>{{item.icono}}</mat-icon>{{item.nombre}}
+        </a>
+      </ng-template>
+      
+    </mat-nav-list>
+    <mat-nav-list td-navigation-drawer-menu>
+      <a mat-list-item (click)="logout()"><mat-icon>exit_to_app</mat-icon>Salir</a>
+    </mat-nav-list>
+  </td-navigation-drawer>
+
+  <router-outlet></router-outlet>
+</td-layout>

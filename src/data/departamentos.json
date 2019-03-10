@@ -1,0 +1,134 @@
+[
+    {
+      "codigoDepto": "05",
+      "nombreDepto": "ANTIOQUIA"
+    },
+    {
+      "codigoDepto": "08",
+      "nombreDepto": "ATLANTICO"
+    },
+    {
+      "codigoDepto": 11,
+      "nombreDepto": "SANTAFE DE BOGOTA"
+    },
+    {
+      "codigoDepto": 13,
+      "nombreDepto": "BOLIVAR"
+    },
+    {
+      "codigoDepto": 15,
+      "nombreDepto": "BOYACA"
+    },
+    {
+      "codigoDepto": 17,
+      "nombreDepto": "CALDAS"
+    },
+    {
+      "codigoDepto": 18,
+      "nombreDepto": "CAQUETA"
+    },
+    {
+      "codigoDepto": 19,
+      "nombreDepto": "CAUCA"
+    },
+    {
+      "codigoDepto": 20,
+      "nombreDepto": "CESAR"
+    },
+    {
+      "codigoDepto": 23,
+      "nombreDepto": "CORDOBA"
+    },
+    {
+      "codigoDepto": 25,
+      "nombreDepto": "CUNDINAMARCA"
+    },
+    {
+      "codigoDepto": 27,
+      "nombreDepto": "CHOCO"
+    },
+    {
+      "codigoDepto": 41,
+      "nombreDepto": "HUILA"
+    },
+    {
+      "codigoDepto": 44,
+      "nombreDepto": "LA GUAJIRA"
+    },
+    {
+      "codigoDepto": 47,
+      "nombreDepto": "MAGDALENA"
+    },
+    {
+      "codigoDepto": 50,
+      "nombreDepto": "META"
+    },
+    {
+      "codigoDepto": 52,
+      "nombreDepto": "NARIÑO"
+    },
+    {
+      "codigoDepto": 54,
+      "nombreDepto": "NORTE DE SANTANDER"
+    },
+    {
+      "codigoDepto": 63,
+      "nombreDepto": "QUINDIO"
+    },
+    {
+      "codigoDepto": 66,
+      "nombreDepto": "RISARALDA"
+    },
+    {
+      "codigoDepto": 68,
+      "nombreDepto": "SANTANDER"
+    },
+    {
+      "codigoDepto": 70,
+      "nombreDepto": "SUCRE"
+    },
+    {
+      "codigoDepto": 73,
+      "nombreDepto": "TOLIMA"
+    },
+    {
+      "codigoDepto": 76,
+      "nombreDepto": "VALLE DEL CAUCA"
+    },
+    {
+      "codigoDepto": 81,
+      "nombreDepto": "ARAUCA"
+    },
+    {
+      "codigoDepto": 85,
+      "nombreDepto": "CASANARE"
+    },
+    {
+      "codigoDepto": 86,
+      "nombreDepto": "PUTUMAYO"
+    },
+    {
+      "codigoDepto": 88,
+      "nombreDepto": "SAN ANDRES ISLA"
+    },
+    {
+      "codigoDepto": 91,
+      "nombreDepto": "AMAZONAS"
+    },
+    {
+      "codigoDepto": 94,
+      "nombreDepto": "GUAINIA"
+    },
+    {
+      "codigoDepto": 95,
+      "nombreDepto": "GUAVIARE"
+    },
+    {
+      "codigoDepto": 97,
+      "nombreDepto": "VAUPES"
+    },
+    {
+      "codigoDepto": 99,
+      "nombreDepto": "VICHADA"
+    }
+  ]

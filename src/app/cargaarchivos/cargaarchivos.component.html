@@ -1,0 +1,174 @@
+ 
+
+
+<!------------------------------- productos --------------------------------------->
+<mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">
+  <ng-template tdLoading="listaPrincipal.load">
+        
+        <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+            <span class="push-left-sm">
+                <span class="mat-title">Productos</span>
+            </span>
+        </div>
+        <mat-divider></mat-divider>
+        <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+                <mat-form-field tdFileDrop
+                                    [disabled]="disabledProducto"
+                                    (fileDrop)="filesProductos = $event"
+                                    (click)="fileInput.inputElement.click()"
+                                    (keyup.enter)="fileInput.inputElement.click()"
+                                    (keyup.delete)="fileInput.clear()"
+                                    (keyup.backspace)="fileInput.clear()"
+                                    flex>
+                  <input matInput
+                        placeholder="Seleccione el archivo"
+                        [value]="filesProductos?.name"
+                        [disabled]="disabledProducto"
+                        readonly/>
+                </mat-form-field>
+                <button mat-icon-button *ngIf="filesProductos" (click)="fileInput.clear()" (keyup.enter)="fileInput.clear()">
+                  <mat-icon>cancel</mat-icon>
+                </button>
+                <td-file-input class="push-left-sm push-right-sm"
+                               #fileInput [(ngModel)]="filesProductos"  
+                               [disabled]="disabledProducto"
+                               accept=".csv" 
+                               (select)="selectEventProductos($event)">
+                  <mat-icon>folder</mat-icon>
+                  <span class="text-upper">Seleccione el archivo...</span>
+                </td-file-input>
+                <span>
+                  <button mat-button (click)="procesarCsvProductos()" mat-raised-button color="accent" [disabled]="!filesProductos" class="text-upper">Procesar</button>
+                </span>
+        </div>
+  </ng-template>
+</mat-card>
+
+
+<!------------------------------- Lista de precios --------------------------------------->
+<mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">     
+            <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+                <span class="push-left-sm">
+                    <span class="mat-title">Lista de precios</span>
+                </span>
+            </div>
+            <mat-divider></mat-divider>
+            <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+                    <mat-form-field tdFileDrop
+                                        [disabled]="disabled"
+                                        (fileDrop)="files = $event"
+                                        (click)="fileInput.inputElement.click()"
+                                        (keyup.enter)="fileInput.inputElement.click()"
+                                        (keyup.delete)="fileInput.clear()"
+                                        (keyup.backspace)="fileInput.clear()"
+                                        flex>
+                      <input matInput
+                            placeholder="Seleccione el archivo"
+                            [value]="files?.name"
+                            [disabled]="disabled"
+                            readonly/>
+                    </mat-form-field>
+                    <button mat-icon-button *ngIf="files" (click)="fileInput.clear()" (keyup.enter)="fileInput.clear()">
+                      <mat-icon>cancel</mat-icon>
+                    </button>
+                    <td-file-input class="push-left-sm push-right-sm"
+                                   #fileInput [(ngModel)]="files"  
+                                   [disabled]="disabled"
+                                   accept=".csv" 
+                                   (select)="selectEvent($event)">
+                      <mat-icon>folder</mat-icon>
+                      <span class="text-upper">Seleccione el archivo...</span>
+                    </td-file-input>
+                    <span>
+                      <button mat-button (click)="procesarCsv()" mat-raised-button color="accent" [disabled]="!files" class="text-upper">Procesar</button>
+                    </span>
+            </div>
+
+</mat-card>
+
+
+<!------------------------------- Veredas --------------------------------------->
+<mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">
+      <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+          <span class="push-left-sm">
+              <span class="mat-title">Veredas</span>
+          </span>
+      </div>
+      <mat-divider></mat-divider>
+      <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+              <mat-form-field tdFileDrop
+                                  [disabled]="disableVereda"
+                                  (fileDrop)="filesVeredas = $event"
+                                  (click)="fileInput.inputElement.click()"
+                                  (keyup.enter)="fileInput.inputElement.click()"
+                                  (keyup.delete)="fileInput.clear()"
+                                  (keyup.backspace)="fileInput.clear()"
+                                  flex>
+                <input matInput
+                      placeholder="Seleccione el archivo"
+                      [value]="filesVeredas?.name"
+                      [disabled]="disableVereda"
+                      readonly/>
+              </mat-form-field>
+              <button mat-icon-button *ngIf="filesVeredas" (click)="fileInput.clear()" (keyup.enter)="fileInput.clear()">
+                <mat-icon>cancel</mat-icon>
+              </button>
+              <td-file-input class="push-left-sm push-right-sm"
+                            #fileInput [(ngModel)]="filesVeredas"  
+                            [disabled]="disableVereda"
+                            accept=".csv" 
+                            (select)="selectEventVeredas($event)">
+                <mat-icon>folder</mat-icon>
+                <span class="text-upper">Seleccione el archivo...</span>
+              </td-file-input>
+              <span>
+                <button mat-button (click)="procesarCsvVeredas()" mat-raised-button color="accent" [disabled]="!filesVeredas" class="text-upper">Procesar</button>
+              </span>
+      </div>
+</mat-card>
+
+
+<!------------------------------- Tiendas o restaurantes --------------------------------------->
+<mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">
+          <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+              <span class="push-left-sm">
+                  <span class="mat-title">Tiendas o restaurantes</span>
+              </span>
+          </div>
+          <mat-divider></mat-divider>
+          <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+                  <mat-form-field tdFileDrop
+                                      [disabled]="disabled"
+                                      (fileDrop)="filesEstablecimiento = $event"
+                                      (click)="fileInput.inputElement.click()"
+                                      (keyup.enter)="fileInput.inputElement.click()"
+                                      (keyup.delete)="fileInput.clear()"
+                                      (keyup.backspace)="fileInput.clear()"
+                                      flex>
+                    <input matInput
+                          placeholder="Seleccione el archivo"
+                          [value]="filesEstablecimiento?.name"
+                          [disabled]="disabled"
+                          readonly/>
+                  </mat-form-field>
+                  <button mat-icon-button *ngIf="filesEstablecimiento" (click)="fileInput.clear()" (keyup.enter)="fileInput.clear()">
+                    <mat-icon>cancel</mat-icon>
+                  </button>
+                  <td-file-input class="push-left-sm push-right-sm"
+                                 #fileInput [(ngModel)]="filesEstablecimiento"  
+                                 [disabled]="disabled"
+                                 accept=".png,.csv" 
+                                 (select)="selectEventRestaurante($event)">
+                    <mat-icon>folder</mat-icon>
+                    <span class="text-upper">Seleccione el archivo...</span>
+                  </td-file-input>
+                  <span>
+                    <button mat-button (click)="procesarCsvRestaurantes()" mat-raised-button color="accent" [disabled]="!filesEstablecimiento" class="text-upper">Procesar</button>
+                  </span>
+          </div>
+</mat-card>
+
+
+
+
+  

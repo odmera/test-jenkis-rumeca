@@ -1,0 +1,59 @@
+
+<!--<td-layout-nav logo="assets:covalent" navigationRoute="/"></td-layout-nav>-->
+<td-layout-nav  navigationRoute="/">
+
+  <button mat-icon-button td-menu-button tdLayoutToggle>
+    <mat-icon>menu</mat-icon>
+  </button>
+  <div td-toolbar-content layout="row" layout-align="center center" flex>
+    <span>RUMECA</span>
+    <span flex></span>
+  </div>
+  <td-layout-manage-list
+                        [opened]="media.registerQuery('gt-sm') | async"
+                        [mode]="(media.registerQuery('gt-sm') | async) ? 'side' : 'push'"
+                        [sidenavWidth]="(media.registerQuery('gt-xs') | async) ? '257px' : '100%'">
+    <mat-toolbar td-sidenav-content>
+      <mat-toolbar-row>
+        <span>Menú</span>
+      </mat-toolbar-row>
+    </mat-toolbar>
+    <mat-nav-list td-sidenav-content [tdLayoutManageListClose]="!media.query('gt-sm')">
+      <ng-template let-item let-last="last" ngFor [ngForOf]="rutas">
+        <a mat-list-item
+          [routerLinkActive]="['active']"
+          [routerLinkActiveOptions]="{exact:true}"
+          [routerLink]="[item.ruta]">
+          <mat-icon matListIcon>{{item.icono}}</mat-icon>
+          {{item.nombre}}
+        </a>
+      </ng-template>
+    </mat-nav-list>
+    <mat-toolbar>
+      <mat-toolbar-row ngfo>
+        <button mat-icon-button tdLayoutManageListOpen [hideWhenOpened]="true">
+          <mat-icon>arrow_back</mat-icon>
+        </button>
+        <div td-toolbar-content layout="row" layout-align="start center" flex>
+          <!--<span>{{title}}</span>-->
+          <span flex></span>
+          <!--
+          <button mat-icon-button><mat-icon >view_module</mat-icon></button>
+          <button mat-icon-button><mat-icon >sort</mat-icon></button>
+          <button mat-icon-button><mat-icon >settings</mat-icon></button>
+          <button mat-icon-button><mat-icon >more_vert</mat-icon></button>-->
+        </div>
+      </mat-toolbar-row>
+    </mat-toolbar>
+    <router-outlet></router-outlet>
+  </td-layout-manage-list>
+
+  
+  <td-layout-footer>
+    <div layout="row" layout-align="start center">
+      <span class="mat-caption">Copyright &copy; {{year}} RUMECA. Todos los derechos reservados</span>
+      <span flex></span>
+      <mat-icon class="mat-icon-ux" svgIcon="assets:teradata-ux"></mat-icon>
+    </div>
+  </td-layout-footer>
+</td-layout-nav>

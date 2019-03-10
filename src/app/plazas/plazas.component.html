@@ -1,0 +1,56 @@
+ <mat-card tdMediaToggle="gt-xs" [mediaClasses]="['push']">
+      <ng-template tdLoading="listaPrincipal.load">
+
+
+            <div layout="row" layout-align="start center" class="pad-left-sm pad-right-sm">
+                <span *ngIf="!searchBox.searchVisible" class="push-left-sm">
+                    <span class="mat-title">Plazas</span>
+                </span>
+                <td-search-box #searchBox backIcon="arrow_back" 
+                                class="push-right-sm" placeholder="Buscar" 
+                                (searchDebounce)="search($event)" flex>
+                </td-search-box>
+            </div>
+            <mat-divider></mat-divider>
+            <td-data-table
+                #dataTable
+                [data]="filteredData"
+                [columns]="columns"
+                [clickable]="clickable"
+                [sortable]="true"
+                [sortBy]="sortBy"
+                [sortOrder]="sortOrder"
+                (sortChange)="sort($event)"
+                [style.height.px]="500">
+
+                <ng-template tdDataTableTemplate="accion" let-value="value" let-row="row" let-column="column">
+                    <button mat-icon-button [mat-menu-trigger-for]="menu">
+                            <mat-icon>more_vert</mat-icon>
+                    </button>
+                    <mat-menu x-position="before" #menu="matMenu">
+                        <a  [routerLink]="[row.id + '/edit']" mat-menu-item>Editar</a>
+                        <button  (click)="openConfirm(row)" mat-menu-item>Eliminar</button>
+                    </mat-menu>
+                </ng-template>
+            </td-data-table>
+            <div class="md-padding" *ngIf="!dataTable.hasData" layout="row" layout-align="center center">
+            <h3>No hay datos para mostrar.</h3>
+            </div>
+            <td-paging-bar #pagingBar [pageSize]="pageSize" [total]="filteredTotal" (change)="page($event)">
+            <span hide-xs>Registros por página:</span>
+            <mat-select [style.width.px]="50" [(ngModel)]="pageSize">
+                <mat-option *ngFor="let size of [50,100,200,500]" [value]="size">
+                {{size}}
+                </mat-option>
+            </mat-select>
+            {{pagingBar.range}} <span hide-xs>of {{pagingBar.total}}</span>
+            </td-paging-bar>
+      </ng-template>
+</mat-card>
+
+<a  mat-fab color="accent" class="mat-fab-bottom-right fixed" [routerLink]="['add']"> 
+  <mat-icon>add</mat-icon>
+</a>
+
+
+  
